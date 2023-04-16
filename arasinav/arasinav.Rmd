@@ -32,15 +32,9 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 20080305, [Github Repo](https://github.com/ZeynepUstaa/ara_sinav.git)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
 
 \colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
@@ -64,7 +58,7 @@ Appiah (2017) tarafından Pentecost Üniversitesi Ekonomi bölümünde yapılan 
 
 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
+
 
 \newpage
 # Kaynakça {#references}
