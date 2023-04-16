@@ -29,14 +29,12 @@ biblio-style: apalike
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
-<!-- ======================================================================= -->
-<!-- ============================== NOTLAR ================================= -->
-<!-- ======================================================================= -->
+
 [^1]: 20080305, [Github Repo](https://github.com/ZeynepUstaa/ara_sinav.git)
 
 
 
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
+
 
 ##Giriş
 İnsanlığın öğrendiklerini sonraki nesillere aktarma isteğiyle oluşan eğitim kavramı, insanlık tarihi kadar eskidir. Eğitim kavramı, değişiklik yaratma süreci olarak tanımlanır. Bireyin davranışlarında, düşünce yapısında ve becerilerinde değişiklik yaratma sürecidir. Eğitim, sadece birey ile sınırlı bir fayda sağlamaz aynı zamanda toplumun geneline de fayda sağlar. Bir bakıma bireyi yetiştirme faaliyetidir ve nesiller boyunca devamı olan bu yetiştirmenin de devlet ve bireyler tarafından karşılanan bir maliyeti vardır, bu maliyetler ‘eğitim harcamaları’ olarak adlandırılır.
